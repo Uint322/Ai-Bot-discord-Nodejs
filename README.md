@@ -1,5 +1,6 @@
 # Nodejs-Discord-bot
-If you are coding on replit
+If you are coding on replit :
+Follow of all these instruction
 
 environment variables:
 1.TOKEN(enter you're bot token)
